@@ -1,8 +1,10 @@
 @media (prefers-color-scheme: dark) {
-body {
-  font-family: "Open Sans", Arial;
-  background-color: black;
-}}
+  body {
+    font-family: "Open Sans", Arial;
+    background-color: black;
+    color: white; /* Textfarbe im Dunkelmodus */
+  }
+}
 h1 {
   font-style: normal;
   font-weight: bold;
